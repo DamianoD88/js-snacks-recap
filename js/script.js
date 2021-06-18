@@ -18,6 +18,6 @@ console.log(newArray);
 
 // La funzione ritornerà un nuovo array con i valori che hanno la posizione compresa tra i due numeri.
 // Usiamo i nuovi metodi degli array foreach o filter.
-//Es: 
+
 
 
